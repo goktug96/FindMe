@@ -1,0 +1,52 @@
+Bulent Ersoy
+Gercek insan miyim?,Evet,1
+Hayali karakter miyim?,Hayir,1
+Turk muyum?,Evet,2
+Kadin miyim?,Evet,2
+Ne is yapiyorum?,Sarkicisin,3
+Hayatta miyim?,Evet,3
+Bir dizide veya filmde oynadim mi?,Evet,4
+Bir yarisma programinda juri oldum mu?,Evet,4
+Hangi yarisma programinda juriydim?,Popstar,5
+Ne tur sarkilar soyluyorum?,Turk sanat muzigi,5
+Bir lakabim var mi?,Diva,10
+Onemli bir ameliyat gecirdim mi?,Cinsiyetini degistirdin,10
+Seda Sayan
+Gercek insan miyim?,Evet,1
+Hayali karakter miyim?,Hayir,1
+Turk muyum,Evet,2
+Kadin miyim?,Evet,2
+Ne is yapiyorum?,Sarkicisin,3
+Hayatta miyim?,Evet,3
+Bir dizide veya filmde oynadim mi?,Evet,4
+Bir yarisma programinda juri oldum mu?,Evet,4
+Ne tur sarkilar soyluyorum?,Arabesk-Pop,5
+Hangi yarisma programinda juriydim?,O Ses Turkiye,5
+Daha once evlendim mi?,8 kez evlendin,10
+Sarkiciliktan baska bir is yapiyor muyum?,Sabah programlari sunuyorsun,10
+Batman
+Gercek insan miyim?,Hayir,1
+Hayali karakter miyim?,Evet,1
+Turum ne?,Insansin,2
+Erkek miyim?,Evet,2
+Super kahraman miyim?,Evet,3
+Film karakteri miyim?,Evet,3
+Super guclerim var mı?,Hayir,4
+Mutant miyim?,Hayir,4
+DC evreninden miyim?,Evet,5
+Marvel evreninden miyim?,Hayır,5
+Lakabim var mı?,Kara Sovalye,10
+En buyuk dusmanim kin?,Joker,10
+Duldul
+Gercek insan miyim?,Hayir,1
+Hayali karakter miyim?,Evet,1
+Insan miyim?,Hayir,2
+Hayvan miyim?,Evet,2
+Kitap karakteri miyim?,Hayir,3
+Dizi karakteri miyim?,Cizgi dizi karakterisin,3
+Evcil hayvan miyim?,Evet,4
+Konusabiliyor muyum?,Evet,4
+Turum ne?,Atsin,5
+Ne rengim?,Beyaz,5
+Sahibim var mi?,Redkit,10
+Dusmanim var mi?,Daltonlar,10
